@@ -2,6 +2,8 @@
 
 Olá, pessoal! Tudo bem? Quando comecei a aprender React, tive algumas dificuldades com algumas bibliotecas que o framework suporta. Pensando nisso, criei um template em React + Vite + Tailwind CSS para facilitar a vida de quem está começando. Basta baixar o projeto e seguir os passos abaixo para configurar rapidamente
 
+[Imagem](https://i.imgur.com/nfX4Ieh.png)
+
 ## Como usar
 
 1. Instale as dependências:
