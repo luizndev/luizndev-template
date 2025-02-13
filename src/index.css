@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color: rgb(26, 26, 26);
+    overflow: hidden;
+}
+
+.luizn{
+    animation: luizn 10s infinite;
+}
+
+@keyframes luizn {
+    0%{
+        transform: rotateZ(5deg);
+    }
+    50%{
+        transform: rotateZ(-5deg);
+    }
+    100%{
+        transform: rotateZ(5deg);
+    }
+
+    
+}
+
+.react{
+    animation: react 10s infinite;
+}
+
+@keyframes react {
+    0%{
+        transform: rotateZ(0deg);
+    }
+
+    100%{
+        transform: rotateZ(360deg);
+    }
+    
+}
