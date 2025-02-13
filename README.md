@@ -1,6 +1,6 @@
-# React + Vite + Tailwind CSS Template
+# LuiznDe | React + Vite + Tailwind CSS Template
 
-Este é um template básico para iniciar um projeto React com Vite e Tailwind CSS.
+Olá, pessoal! Tudo bem? Quando comecei a aprender React, tive algumas dificuldades com algumas bibliotecas que o framework suporta. Pensando nisso, criei um template em React + Vite + Tailwind CSS para facilitar a vida de quem está começando. Basta baixar o projeto e seguir os passos abaixo para configurar rapidamente
 
 ## Como usar
 
